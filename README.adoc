@@ -1,0 +1,3 @@
+# quarkus-multi-pu
+
+This project demonstrates how to use multiple persistence units in quarkus.
